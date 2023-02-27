@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  margin: 20px;
+  display: flex;
+}
+.card-content{
+  width: 300px;
+  margin: 10px;
+  border: 1px solid black;
+  font-size: 15px;
+}
